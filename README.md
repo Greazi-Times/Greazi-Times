@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/FYDfJdt/Git-Hub-Readme-Top.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Greazi</h1>
-<h3 align="center">I'm a enthousiastic person that loves towork on projects with friends</h3>
+<h3 align="center">I'm a enthousiastic person that loves to work on projects with friends</h3>
 
 
 ## 😃 About Me
