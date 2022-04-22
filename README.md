@@ -29,7 +29,7 @@ Hi, I'm [Greazi](https://greazi.com) a passionate self-taught developer. I'm a p
 <p align=center>
   Do you Like my work? 
   <br>
-  <a href="https://www.buymeacoffee.com/greazi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+  <a href="https://www.buymeacoffee.com/greazi" target="_blank"><img src="https://www.greazi.com/wp-content/uploads/2022/04/cropped-34fcbef71d7ef8103a83f6e7a615d9273d6dea37_2_690x368-300x76.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 </p>
 
 <!-- Need to calculate this when I have time
