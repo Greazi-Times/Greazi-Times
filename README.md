@@ -86,7 +86,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 ``` -->
 
-<img align="right" alt="GIF" src="images/code.gif" width="360px"/>
+<img align="right" alt="GIF" src="images/code.gif" height="250px"/>
 
 ## 😃 About Me
 
